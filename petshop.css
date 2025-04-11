@@ -3,3 +3,8 @@ header {
     text-align: center;
     color: white;
 }
+
+section{
+    background-color: aquamarine;
+    height: 100vh;
+}
