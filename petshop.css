@@ -11,7 +11,6 @@ body {
     margin: 0;
 }
 
-
 nav a {
     color: white;
     text-decoration: none;
@@ -30,7 +29,7 @@ section {
     padding: 10px;
 }
 
-#cadastro{
+#cadastro {
     background-color: cadetblue;
 }
 
@@ -44,12 +43,33 @@ section {
 
 #serviços {
     background-color: beige;
-    
+
+}
+
+#job {
+    background-color: #ddd;
 }
 
 #produtos {
     background-color: burlywood;
 
+}
+
+#raçao {
+    background-color: darkgrey;
+}
+
+#brinquedo {
+    background-color: gold;
+}
+
+#acessorio {
+    background-color: indianred;
+}
+
+
+#promoçoes {
+    background-color: darkgoldenrod;
 }
 
 
