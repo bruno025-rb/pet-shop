@@ -27,18 +27,19 @@ section {
     text-align: center;
     background-color: #333;
     padding: 10px;
+    border: black solid ;
 }
 
 #cadastro {
-    background-color: cadetblue;
+    background-color: #ddd;
 }
 
 #banner {
-    background-color: coral;
+    background-color: #ddd;
 }
 
 #serviços {
-    background-color: beige;
+    background-color: #ddd;
 
 }
 
@@ -68,12 +69,12 @@ section {
 }
 
 #produtos {
-    background-color: burlywood;
+    background-color: #ddd;
 
 }
 
 #raçao {
-    background-color: darkgrey;
+    background-color: #ddd;
 }
 .raçoes{
     display: inline-block;
@@ -89,7 +90,7 @@ section {
 }
 
 #brinquedo {
-    background-color: gold;
+    background-color: #ddd;
 }
 .brinquedos{
     display: inline-block;
@@ -105,7 +106,7 @@ section {
 }
 
 #acessorio {
-    background-color: indianred;
+    background-color: #ddd;
 }
 
 .trabalho {
