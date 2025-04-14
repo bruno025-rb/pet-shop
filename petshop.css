@@ -36,7 +36,8 @@ section {
 }
 
 #banner {
-    background-color: #ddd;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 #serviços {
@@ -152,8 +153,23 @@ button{
 .cadastro{
     text-align: center;
     display: block;
-
+}
    
 label{
     display: block;
 }
+.subheader{
+    border-top: 10px;
+border-bottom: 10px;
+
+}
+.section1{
+    border-top: 10px solid black;
+
+}
+.divheader label{
+display: inline-flex;
+}
+#plano{
+    color: #000000;
+ }   
