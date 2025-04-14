@@ -9,7 +9,7 @@ header {
 body {
     font-family: sans-serif;
     margin: 0;
-    
+
 }
 
 nav a {
@@ -87,11 +87,12 @@ section {
 
 }
 
-button{ 
+button {
     background-color: black;
     color: chartreuse;
     border-radius: 10px;
-    width: 150px; height: 30px;
+    width: 150px;
+    height: 30px;
 }
 
 .raçoes img {
@@ -150,13 +151,21 @@ button{
     object-fit: cover;
     border-radius: 20px;
 }
-.cadastro{
+
+.cadastro {
     text-align: center;
     display: block;
 }
    
 label{
     display: block;
+    padding: 10px;
+    font-size: large;
+
+}
+
+.patinhas {
+    margin-left: -666px;
 }
 .subheader{
     border-top: 10px;
@@ -167,9 +176,3 @@ border-bottom: 10px;
     border-top: 10px solid black;
 
 }
-.divheader label{
-display: inline-flex;
-}
-#plano{
-    color: #000000;
- }   
