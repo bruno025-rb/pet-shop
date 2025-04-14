@@ -9,7 +9,7 @@ header {
 body {
     font-family: sans-serif;
     margin: 0;
-    
+
 }
 
 nav a {
@@ -86,11 +86,12 @@ section {
 
 }
 
-button{ 
+button {
     background-color: black;
     color: chartreuse;
     border-radius: 10px;
-    width: 150px; height: 30px;
+    width: 150px;
+    height: 30px;
 }
 
 .raçoes img {
@@ -149,11 +150,26 @@ button{
     object-fit: cover;
     border-radius: 20px;
 }
-.cadastro{
+
+.cadastro {
     text-align: center;
     display: block;
 
-   
-label{
+}
+
+.imput-cadastro {
+    padding: 10px;
+    height: 5px;
+    width: 300px;
+}
+
+label {
     display: block;
+    padding: 10px;
+    font-size: large;
+
+}
+
+.patinhas {
+    margin-left: -666px;
 }
