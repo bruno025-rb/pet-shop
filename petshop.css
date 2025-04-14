@@ -90,7 +90,7 @@ button{
     background-color: black;
     color: chartreuse;
     border-radius: 10px;
-    width: 150px; height: 40px;
+    width: 150px; height: 30px;
 }
 
 .raçoes img {
@@ -148,4 +148,12 @@ button{
     height: 100%;
     object-fit: cover;
     border-radius: 20px;
+}
+.cadastro{
+    text-align: center;
+    display: block;
+
+   
+label{
+    display: block;
 }
