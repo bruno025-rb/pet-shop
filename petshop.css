@@ -176,3 +176,33 @@ border-bottom: 10px;
     border-top: 10px solid black;
 
 }
+.plano{
+    margin: 15px;
+border: solid rgb(151, 151, 151);
+padding: 5px;
+border-radius: 10px;
+
+
+}
+.hospedagem{
+    margin: 15px;
+    padding: 5px;
+    border: solid rgb(151, 151, 151);
+    border-radius: 10px;
+}
+.recomendados{
+margin: 15px;
+padding: 5px;
+border: solid rgb(151, 151, 151);
+border-radius: 10px;
+}
+.lojas{
+    margin: 15px;
+    padding: 5px;
+    border: solid rgb(151, 151, 151);
+    border-radius: 10px;
+}
+.subheader{
+    padding: 10px;
+}
+
